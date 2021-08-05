@@ -1,16 +1,43 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# html1
+<html>
+<head>
+<title>
+Football
+</title>
+</head> 
+<body>
+<H1>
+Футбол — командный вид спорта, в котором целью является забить мяч в ворота соперника ногами или другими частями тела большее количество раз, чем команда соперника.
+</h1>
+</body>
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+</html>
 
-# Book build output
-_book
 
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+
+htmllang="en">
+<head><metacharset="UTF-8">
+<title>Fair and square</title><
+metaname="description"content="t03. Fair and square">
+
+
+alert(solver(40, -9, 0.5, 7, 100));
+// displays 1724.83alert(solver(40, "doesn't look like a number", 0.5, 7, 100));/
+/ displays "Wrong input"alert(solver(40, -9, 0.5, 7));// displays "Wrong input"SEE ALSOHow To Do Math i
+2
+
+
+
+<htmllang="en"><head><metacharset="UTF-8"><title>Sooo..., a string<
+/title><metaname="description"content="t05. Sooo..., a string"><
+/head><body><h1Basic> 14
+
+
+
+htmllang="en"><head><metacharset="UTF-8"><title>Heroes</title><metaname="description"content="t12. Heroes"></head><body><h1>Heroes</h1><scriptsrc="js/script.js"></script><!-- <script src="js/test.js"></script> uncomment this line when testing --></body></html>EXAMPLEvarheroes= ["Captain America", "Hulk", "Thor", "Iron Man", "Spider-Man"];console.log(firstElements(heroes, 5));// ["Captain America", "Hulk", "Thor", "Iron Man", "Spider-Man"]console.log(firstElements(heroes, 1));// ["Captain America"]console.log(firstElements(heroes, 3));// ["Captain America", "Hulk", "Thor"]console.log(firstElements(heroes, 6));// ["Captain America", "Hulk", "Thor", "Iron Man", "Spider-Man"]console.log(firstElements(heroes, -1));// []SEE ALSOJavaScript ArraysJavaScript Array ReferenceSprint 02 |Web Frontend Basic> 29
+
+
+
+
+
+
